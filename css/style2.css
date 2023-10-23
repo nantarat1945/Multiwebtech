@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+		html,body{
+		background-image: url('https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?w=826&t=st=1698046654~exp=1698047254~hmac=aef226fe20975b81cd1cd9ce56ed846ba10b69ad9753ff55a1ecac633a4227e6');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 100%;
+		font-family: 'Numans', sans-serif;
+		}
+		.container{
+		height: 100%;
+		align-content: center;
+		}
+		.card{
+		height: 300px;
+		margin-bottom: auto;
+		width: 400px;
+		background-color: rgba(0,0,0,0.5) !important;
+		}
+		.social_icon span{
+		font-size: 60px;
+		margin-left: 10px;
+		color: #e67d57;
+		}
+		.social_icon span:hover{
+		color: white;
+		cursor: pointer;
+		}
+		.card-header h3{
+		color: white;
+		}
+		.social_icon{
+		position: absolute;
+		right: 20px;
+		top: -45px;
+		}
+		.input-group-prepend span{
+		width: 50px;
+		background-color: #ea7b4f;
+		color: black;
+		border:0 !important;
+		}
+		input:focus{
+		outline: 0 0 0 0  !important;
+		box-shadow: 0 0 0 0 !important;
+		}
+		.remember{
+		color: white;
+		}
+		.remember input
+		{
+		width: 20px;
+		height: 20px;
+		margin-left: 15px;
+		margin-right: 5px;
+		}
+		.login_btn{
+		color: black;
+		background-color: #f6c8b1;
+		width: 170px;
+		}
+		.login_btn2{
+		color: black;
+		background-color: #CACFD2;
+		width: 170px;
+		}
+		.login_btn:hover{
+		color: black;
+		background-color: white;
+		}
+		.links{
+		color: white;
+		}
+		.links a{
+		margin-left: 4px;
+		}
+			

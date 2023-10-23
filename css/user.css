@@ -1,0 +1,9 @@
+span {
+    background-color: cadetblue;
+}
+table{
+    width: 95%;
+    text-align: center;
+    overflow: visble;
+    text-overflow: ellipsis;
+}
